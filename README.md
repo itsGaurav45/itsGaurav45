@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Chaubey</h1>
-<h3 align="center">A passionate frontend developer from  Lucknow , Uttar Pradesh</h3>
+<h3 align="center">A passionate MERN Stack developer from  Lucknow , Uttar Pradesh</h3>
 
 
 
-- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **gauravchaubey292003@gmail.com**
 
