@@ -1,15 +1,22 @@
 <div align="center">
+
 👋 Hi, I'm Gaurav Chaubey
-🧑‍💻 MERN Stack Developer · BCA @ BBDU · Lucknow, India
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;React+%7C+Node+%7C+Express+%7C+MongoDB;GenAI+%7C+REST+APIs+%7C+Real-Time+Systems;Writing+code+that+actually+works+🚀)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+### 🧑‍💻 MERN Stack Developer · BCA @ BBDU · Lucknow, India
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;React+%7C+Node+%7C+Express+%7C+MongoDB;GenAI+%7C+REST+APIs+%7C+Real-Time+Systems;Writing+code+that+actually+works+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-chaubey-629681286)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsGaurav45)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@gauravchaubey292)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gaurav._chaubey45)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravchaubey292003@gmail.com)
+
 </div>
+
 ---
-🧠 About Me
+
+## 🧠 About Me
+
 ```javascript
 const gaurav = {
   location: "Lucknow, Uttar Pradesh 🇮🇳",
@@ -21,7 +28,9 @@ const gaurav = {
   funFact: "I debug better at night ☕🌙"
 };
 ```
+
 ---
+
 
 ## 🚀 Featured Projects
 
