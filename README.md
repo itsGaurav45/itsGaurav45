@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Gaurav Chaubey
+### 👋 Hi, I'm Gaurav Chaubey
 ### 🧑‍💻 MERN Stack Developer · BCA @ BBDU · Lucknow, India
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;React+%7C+Node+%7C+Express+%7C+MongoDB;GenAI+%7C+REST+APIs+%7C+Real-Time+Systems;Writing+code+that+actually+works+%F0%9F%9A%80)](https://git.io/typing-svg)
