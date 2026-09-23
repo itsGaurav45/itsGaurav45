@@ -1,14 +1,14 @@
 <div align="center">
 
 ### 👋 Hi, I'm Gaurav Chaubey
-### 🧑‍💻 MERN Stack Developer · BCA @ BBDU · Lucknow, India
+### 🧑‍💻 Full Stack Developer · BCA @ BBDU · Lucknow, India
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+apps;React+%7C+Node+%7C+Express+%7C+MongoDB;GenAI+%7C+REST+APIs+%7C+Real-Time+Systems;Writing+code+that+actually+works+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-chaubey-629681286)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsGaurav45)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@gauravchaubey292)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gaurav._chaubey45)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gauravhere45)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/imGaurav_45/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravchaubey292003@gmail.com)
 
 </div>
@@ -21,7 +21,7 @@
 const gaurav = {
   location: "Lucknow, Uttar Pradesh 🇮🇳",
   education: "BCA @ Babu Banarasi Das University (SGPA: 8.3)",
-  role: "MERN Stack Developer",
+  role: "Full Stack Developer",
   currentlyBuilding: "AI-powered full-stack applications",
   interests: ["Web Dev", "GenAI", "RESTful APIs", "Real-Time Systems"],
   askMeAbout: ["React", "Node.js", "MongoDB", "Express", "Socket.io"],
@@ -107,20 +107,13 @@ const gaurav = {
 
 ---
 
-## 💼 Experience
-
-### 📊 Deloitte — Data Analytics Job Simulation *(Apr 2025 – May 2025)*
-- Applied analytical techniques across **3+ real-world business datasets**
-- Built an interactive **Tableau dashboard** with 5+ KPI visualizations
-- Cleaned & classified data in **Excel** → reduced analysis time by **30%**
-
----
 
 ## 🏆 Achievements
 
 | 🥇 Achievement | 📊 Rank | 🏟️ Out of |
 |---|---|---|
 | AINCAT 2025 | **Rank 452** | 4 Lakh+ participants |
+| AINCAT 2026 | **Rank 44** | 4 Lakh+ participants |
 | Naukri Campus Young Turks 2025 | **Rank 1842** | 5 Lakh+ participants |
 
 **Certifications:**
