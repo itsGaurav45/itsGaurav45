@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Gaurav Chaubey - Full-Stack MERN Developer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Full-Stack+MERN+Developer;I+build+secure+web+apps+with+AI+features;AIR+44+%7C+AINCAT+2026+%F0%9F%8F%86;Open+to+work+%E2%80%A2+Noida+%26+Bengaluru" alt="Typing animation" />
+<!-- Fixed broken local asset references by using hosted alternatives -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Full-Stack+MERN+Developer;I+build+secure+and+scalable+web+applications;Open+to+full-stack+roles" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -94,11 +93,7 @@ Write and run code in the browser, like an online IDE.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsGaurav45/itsGaurav45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsGaurav45/itsGaurav45/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/itsGaurav45/itsGaurav45/output/github-snake.svg" />
-</picture>
+<img alt="Contribution graph" src="https://ghchart.rshah.org/itsGaurav45" />
 
 </div>
 
