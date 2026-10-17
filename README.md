@@ -1,16 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gaurav%20Chaubey&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Gaurav Chaubey Header" />
 
 <div align="center">
 
-<!-- Fixed broken local asset references by using hosted alternatives -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Full-Stack+MERN+Developer;I+build+secure+and+scalable+web+applications;Open+to+full-stack+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Full-Stack+MERN+Developer;I+build+secure+and+scalable+web+applications;AIR+44+%7C+AINCAT+2026+%F0%9F%8F%86;Open+to+full-stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:gauravchaubey292003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_ID"><img src="https://img.shields.io/badge/LeetCode-200%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_ID"><img src="https://img.shields.io/badge/CodeChef-650%2B_solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_ID" target="_blank"><img src="https://img.shields.io/badge/LeetCode-200%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_ID" target="_blank"><img src="https://img.shields.io/badge/CodeChef-650%2B_solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 </div>
 
