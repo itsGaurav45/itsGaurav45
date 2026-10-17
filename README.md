@@ -21,7 +21,6 @@
 $ whoami
 Gaurav Chaubey
 
-$ cat about.txt
 Education : BCA, Babu Banarasi Das University (CGPA 8.54)
 Rank      : AIR 44 in AINCAT 2026 (4 Lakh+ participants)
 DSA       : 850+ problems solved (CodeChef + LeetCode)
